@@ -1,4 +1,3 @@
-README.md
 #C - Debugging
 
 #TASKS.
